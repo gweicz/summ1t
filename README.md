@@ -10,11 +10,12 @@ registration: https://lu.ma/cu0ckyx2
 
 Let's celebrate 5 years of [Gwei.cz](http://gwei.cz/) live together with a day-long gathering to recap our successes and failures, and move into a new and better era. We'd love to see you, friends! ✨
 
-Every attendee will be presented with a commemorative t-shirt and other exciting surprises to cherish :) 🎁
+Every attendee will be presented with a commemorative t-shirt and other exciting 🎁 surprises to cherish :) Also special commemorative POAP will be available on site for minting.
 
 While the majority of the talks and stage presentations will be in 🇨🇿 Czech, we extend a warm invitation to our English-speaking friends to join us as well!
 
 Please note: This summit is a private, invitation-only event reserved for Gwei.cz members and their guests.
+
 ## Schedule
 
 - 12:00 ⎯ start (doors open) 🚀
