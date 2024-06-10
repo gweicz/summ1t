@@ -14,12 +14,13 @@ Each visitor will receive a souvenir t-shirt and other surprises :) 🎁
 
 - 12:00 ⎯ start (doors open) 🚀
 - 13:00-20:00 ⎯ stage
-  - 13:00-15:00 ⎯ Members lightning talks
+  - 13:00-15:00 ⎯ Presentation of members' projects (lightning talks)
   - 15:00-17:00 ⎯ Members keynotes
   - 17:00-19:00 ⎯ Gwei.cz reminiscence ("5-years of Gwei.cz")
   - 19:00-19:30 ⎯ Summit closing
+- 19:30-20:30 ⎯ dinner of your choice 🍲
 - 20:30-04:00 ⎯ party! 🥳🍸🪩
 
 ## Food & Drinks
 
-Food and drink will be provided during the whole event! 🍷🍕😋
+Refreshments will be as free as lemonade throughout the entire event! 🍹🍕😋
