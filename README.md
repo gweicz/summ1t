@@ -1,5 +1,5 @@
 ---
-link: https://lu.ma/cu0ckyx2
+registration: https://lu.ma/cu0ckyx2
 ---
 
 # Gwei.cz Summit 2025: 5th Anniversary
