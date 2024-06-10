@@ -2,7 +2,7 @@
 link: https://lu.ma/cu0ckyx2
 ---
 
-# Gwei.cz Summit 2025 - 5-y Anniversary
+# Gwei.cz Summit 2025: 5th Anniversary
 
 Let's celebrate 5 years of [Gwei.cz](http://gwei.cz/) live together with a day-long gathering to recap our successes and failures, and move into a new and better era. We'd love to see you, friends! ✨
 
