@@ -12,7 +12,7 @@ Let's celebrate 5 years of [Gwei.cz](http://gwei.cz/) live together with a day-l
 
 Every attendee will be presented with a commemorative t-shirt and other exciting surprises to cherish :) 🎁
 
-While the majority of the talks and stage presentations will be in Czech, we extend a warm invitation to our English-speaking friends to join us as well!
+While the majority of the talks and stage presentations will be in 🇨🇿 Czech, we extend a warm invitation to our English-speaking friends to join us as well!
 
 Please note: This summit is a private, invitation-only event reserved for Gwei.cz members and their guests.
 ## Schedule
