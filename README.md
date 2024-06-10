@@ -21,8 +21,8 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 - 12:00 ⎯ start (doors open) 🚀
 - 13:00-19:30 ⎯ stage
   - 13:00-15:00 ⎯ Presentation of members (lightning talks)
-  - 15:00-17:00 ⎯ Keynotes
-  - 17:00-18:30 ⎯ Gwei.cz reminiscence panel ("5-years of Gwei.cz")
+  - 15:00-17:00 ⎯ Keynotes from members & friends
+  - 17:00-18:30 ⎯ Gwei.cz reminiscence panel
   - 18:30-19:00 ⎯ The New Era of Gwei.cz
   - 19:00-19:30 ⎯ Summit closing
 - 19:30-20:30 ⎯ dinner of your choice 🍲
