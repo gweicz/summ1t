@@ -26,6 +26,7 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
   - 19:00-19:30 ⎯ Summit closing
 - 19:30-20:30 ⎯ dinner of your choice 🍲
 - 20:30-04:00 ⎯ party! 🥳🍸🪩
+  - 00:00 - 01:00 ⎯ BORDEL chaos  
 
 ## Food & Drinks
 
