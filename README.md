@@ -21,7 +21,8 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 - 13:00-20:00 ⎯ stage
   - 13:00-15:00 ⎯ Presentation of members' projects (lightning talks)
   - 15:00-17:00 ⎯ Members keynotes
-  - 17:00-19:00 ⎯ Gwei.cz reminiscence panel ("5-years of Gwei.cz")
+  - 17:00-18:30 ⎯ Gwei.cz reminiscence panel ("5-years of Gwei.cz")
+  - 18:30-19:00 ⎯ Introduction of Gwei.cz V3 (🌴)
   - 19:00-19:30 ⎯ Summit closing
 - 19:30-20:30 ⎯ dinner of your choice 🍲
 - 20:30-04:00 ⎯ party! 🥳🍸🪩
@@ -32,4 +33,5 @@ Refreshments will be as free as lemonade throughout the entire event! 🍹🍕�
 
 ## Team
 
-- Tree
+- Tree - coordination
+- Coinmandeer - visual identity
