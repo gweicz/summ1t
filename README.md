@@ -33,6 +33,17 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 
 Refreshments will be as free as lemonade throughout the entire event! 🍹🍕😋
 
+## Budget
+
+(estimation)
+
+- $2000 venue
+- $1500 equipment
+- $4000 catering
+- $2500 merch
+
+Estimated minimal viable budget: $10,000
+
 ## Team
 
 - Tree - coordination
