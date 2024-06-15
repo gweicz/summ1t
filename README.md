@@ -1,5 +1,6 @@
 ---
 registration: https://lu.ma/cu0ckyx2
+team_notes: https://hackmd.io/@gweicz/S1VrpmiSR
 ---
 
 # Gwei.cz Summit 2025: 5th Anniversary
