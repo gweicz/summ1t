@@ -30,6 +30,13 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 - 20:30-04:00 ⎯ party! 🥳🍸🪩
   - 00:00 - 01:00 ⎯ BORDEL chaos  
 
+## Target Audience
+
+- representatives of all crypto (sub)communities (ethereu, polkadot, starknet, monero, bitcoin, NFT(s)..)
+- people who do crypto projects and business (PWN, Ackee, Artiffine..)
+- people from centralized exchanges (Anycoin, Confirmo, Binance..)
+- people from investment funds and VCs (MitonC, Rockaway..)
+
 ## Food & Drinks
 
 Refreshments will be as free as lemonade throughout the entire event! 🍹🍕😋
