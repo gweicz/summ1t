@@ -58,5 +58,5 @@ Estimated minimal viable budget: $10,000
 ## Team
 
 - Tree - coordination
-- Coinmandeer - visual identity
 - Petr - production (venue, equipment, catering)
+- Coinmandeer - visual identity
