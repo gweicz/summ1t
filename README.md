@@ -22,13 +22,15 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 - 12:00 ⎯ start (doors open) 🚀
 - 12:00-22:00 ⎯ networking lounge 🤝
 - 13:00-19:30 ⎯ stage
-  - 13:00-15:00 ⎯ Presentation of members (lightning talks)
-  - 15:00-17:00 ⎯ Keynotes from members & friends
-  - 17:00-18:30 ⎯ Gwei.cz reminiscence panel (2020-2024)
-  - 18:30-19:00 ⎯ The New Era of Gwei.cz
-  - 19:00-19:30 ⎯ Summit closing
-- 19:30-20:30 ⎯ dinner of your choice 🍲
-- 20:30-04:00 ⎯ party! 🥳🍸🪩
+  - 13:00 ⎯ Presentation of members (lightning talks)
+  - 15:00 ⎯ Keynotes from members & friends
+  - 17:00 ⎯ Gwei.cz reminiscence panel (2020-2024)
+  - 18:30 ⎯ The New Era of Gwei.cz
+  - 19:00 ⎯ (dinner break)
+  - 20:00 ⎯ UTXO Awards Ceremony
+  - 21:30 ⎯ Summit closing
+- 19:00-20:00 ⎯ dinner of your choice 🍲
+- 22:00-04:00 ⎯ party! 🥳🍸🪩
   - 00:00 - 01:00 ⎯ BORDEL chaos  
 
 ## Target Audience
