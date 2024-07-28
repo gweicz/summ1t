@@ -21,7 +21,7 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 
 - 12:00 ⎯ start (doors open) 🚀
 - 12:00-22:00 ⎯ networking lounge 🤝
-- 13:00-19:30 ⎯ stage
+- 13:00-22:00 ⎯ stage
   - 13:00 ⎯ Presentation of members (lightning talks)
   - 15:00 ⎯ Keynotes from members & friends
   - 17:00 ⎯ Gwei.cz reminiscence panel (2020-2024)
