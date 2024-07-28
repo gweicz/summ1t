@@ -42,7 +42,11 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 
 ## Food & Drinks
 
-Refreshments will be as free as lemonade throughout the entire event! 🍹🍕😋
+Refreshments will be as free as lemonade (and beer of course) throughout the entire event! 🍹🍕😋
+
+## Experiences
+
+- POAP badge
 
 ## Budget
 
