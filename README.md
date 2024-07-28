@@ -48,6 +48,10 @@ Refreshments will be as free as lemonade (and beer of course) throughout the ent
 
 - POAP badge
 
+## Live Streaming & Recordings
+
+Everything that happens on stage including the UTXO Awards will be recorded and streamed live.
+
 ## Budget
 
 (estimation)
