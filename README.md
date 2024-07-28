@@ -33,13 +33,6 @@ Please note: This summit is a private, invitation-only event reserved for Gwei.c
 - 22:00-04:00 ⎯ party! 🥳🍸🪩
   - 00:00 - 01:00 ⎯ BORDEL chaos  
 
-## Target Audience
-
-- representatives of all crypto (sub)communities (ethereu, polkadot, starknet, monero, bitcoin, NFT(s)..)
-- people who do crypto projects and business (PWN, Ackee, Artiffine..)
-- people from centralized exchanges (Anycoin, Confirmo, Binance..)
-- people from investment funds and VCs (MitonC, Rockaway..)
-
 ## Food & Drinks
 
 Refreshments will be as free as lemonade (and beer of course) throughout the entire event! 🍹🍕😋
@@ -51,6 +44,13 @@ Refreshments will be as free as lemonade (and beer of course) throughout the ent
 ## Live Streaming & Recordings
 
 Everything that happens on stage including the UTXO Awards will be recorded and streamed live.
+
+## Target Audience
+
+- representatives of all crypto (sub)communities (ethereu, polkadot, starknet, monero, bitcoin, NFT(s)..)
+- people who do crypto projects and business (PWN, Ackee, Artiffine..)
+- people from centralized exchanges (Anycoin, Confirmo, Binance..)
+- people from investment funds and VCs (MitonC, Rockaway..)
 
 ## Budget
 
