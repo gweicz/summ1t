@@ -5,7 +5,7 @@ team_notes: https://hackmd.io/@gweicz/S1VrpmiSR
 
 # Gwei.cz Summit 2025: 5th Anniversary
 
-* Date: Sunday 19.1.2025
+* Date: ~~Sunday 19.1.2025~~ (postponed to later in the year)
 * Place: TBD, Prague, Czech Republic
 * Capacity: 200 people
 
